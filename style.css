@@ -1,0 +1,114 @@
+.headera {
+    font-size: large;
+}
+.headera{
+    font-size: 20px;
+    color: blue;
+}
+.ulli{
+    margin: 20px;font-size: 15px;font-weight: 700;
+}
+.aboutseattle{
+    height: 500px;
+    padding-top: 0;
+    background: rgb(56, 49, 50);
+    text-align: center;
+    font-size: 55px;
+    margin-top:-20px ;
+    color: white;
+}
+.texta {
+    margin-top: -100px;
+    font-weight: 700;
+}
+/* footer {
+    text-align: center;
+    height:550px;
+    padding: 0px;
+    background-color:black;
+    color: white;
+    font-size: 20px;
+  } */
+/* #footera{
+    background: black;
+
+} */
+/* .hrfoot {
+    margin-top: 400px;
+    height: 0.3px;
+}
+#footerc{
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration: none;
+}
+#footerc>a{
+    color: white;
+    text-decoration: none;
+}
+#footerc>a:hover{
+    color:rgb(33, 27, 28);
+} */
+/* #footerb {
+    margin-right:480px;
+} */
+#condetails{
+    color: blue;
+    
+}
+.emptycl{
+    height: 250px;
+    background: rgb(56, 49, 50);
+    width: 100%;
+}
+#content{
+    margin-left: 110px;
+    margin-top: -80px;
+    font-size: 45px;
+    font-weight: 700;
+    color: black;
+
+}
+.btna{
+    margin: 150px;
+    margin-top: 0;
+    background: rgb(255, 168, 5);
+    padding: 25px;
+    border-radius: 50px;
+    letter-spacing: 5px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.btna>a{
+    color: white;
+}
+.btna:hover{
+    border:2px solid rgb(255, 168, 5);
+    background: white;
+}
+/* .btna>a:hover{
+    color: red;
+} */
+#footermain{
+    height: 400px;
+    background: black;
+
+}
+.downfoot{
+    color: gray;
+    text-decoration: none;
+}
+.downfoot:hover{
+    color:rgb(255, 168, 5) ;
+}
+.fafaicon{
+    color:rgb(52, 49, 49);
+    background: rgb(99, 97, 97);
+    padding: 9px;
+    border-radius: 5px;
+    margin-left: 2px;
+}
+.fafaicon:hover{
+    /* color: #FF0000; */
+    color:rgb(255, 168, 5);
+}
